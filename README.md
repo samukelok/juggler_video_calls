@@ -1,9 +1,7 @@
-### 📝 Juggler
-
 # 🎪 Juggler Video Calls
 
 **A Privacy-First, Unlimited-Time Video Calling Platform**  
-[🌐 Live Site → juggler.bluenroll.co.za](https://juggler.bluenroll.co.za)
+[🌐 Live Site  →  juggler.bluenroll.co.za](https://juggler.bluenroll.co.za)
 
 > An open-source alternative to Zoom/Google Meet that doesn’t spy on you — and never cuts your call short.
 
@@ -65,8 +63,8 @@ Juggler relies on a custom Node.js WebSocket server called [`juggler_ws`](https:
 
 2. Install dependencies:
 
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 3. Start the server:
 

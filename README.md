@@ -80,7 +80,7 @@ For more details, visit the [`juggler_ws repository`](https://github.com/samukel
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/juggler_video_calls.git
+   git clone https://github.com/samukelok/juggler_video_calls.git
    cd juggler_video_calls
 
 2. Deploy on any LAMP server or hosting service that supports PHP.

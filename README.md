@@ -1,9 +1,5 @@
-
----
-
 ### 📝 Juggler
 
-```markdown
 # 🎪 Juggler Video Calls
 
 **A Privacy-First, Unlimited-Time Video Calling Platform**  

@@ -68,8 +68,8 @@ Juggler relies on a custom Node.js WebSocket server called [`juggler_ws`](https:
 
 3. Start the server:
 
-  ```bash
-  node server.js
+   ```bash
+   node server.js
 
 4. Ensure your PHP front-end connects to this WebSocket server for signaling.
 
@@ -79,9 +79,9 @@ For more details, visit the [`juggler_ws repository`](https://github.com/samukel
 
 1. Clone the repo:
 
-  ```bash
-  git clone https://github.com/YOUR_USERNAME/juggler_video_calls.git
-  cd juggler_video_calls
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/juggler_video_calls.git
+   cd juggler_video_calls
 
 2. Deploy on any LAMP server or hosting service that supports PHP.
 
